@@ -18,4 +18,5 @@ while saldo > 0 :
 	mes = mes + 1
 	print(mes, round(total_pagado,2), round(saldo,2))
 
-print('Total pagado', round(total_pagado, 2), "en: ", mes," meses")
+print('Total pagado', round(total_pagado, 2))
+print("en: ", mes," meses")
