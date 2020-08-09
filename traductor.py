@@ -1,9 +1,9 @@
-print("Bienvenido al Traductor a Lenguage inclusivo")
+print("Bienvenide al Traductor a Lenguage inclusivo")
 print()
-print("Ingrese la Fase a traducir:")
-frase=input()
+#print("Ingrese la Fase a traducir:")
+#frase=input()
 
-#frase = 'todos somos programadores'
+frase = 'todos somos programadores'
 palabras = frase.split()
 palabras_inclusive = []
 frase_inclusive = []
